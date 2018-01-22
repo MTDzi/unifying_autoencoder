@@ -1,0 +1,9 @@
+name: uniae
+dependencies:
+- anaconda::python=3.6
+- anaconda::pandas==0.21.0
+- anaconda::matplotlib==2.1.0
+- anaconda::scikit-learn==0.19.1
+- conda-forge::notebook==5.0
+- conda-forge::keras==2.0.8
+- conda-forge::tensorflow==1.4.0
