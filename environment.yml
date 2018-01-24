@@ -7,3 +7,4 @@ dependencies:
 - conda-forge::notebook==5.0
 - conda-forge::keras==2.0.8
 - conda-forge::tensorflow==1.4.0
+- conda-forge::xgboost==0.7
